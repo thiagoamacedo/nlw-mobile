@@ -1,5 +1,5 @@
 import { StatusBar } from 'expo-status-bar';
-import { TouchableOpacity, StyleSheet, Text, View, ButtonProps } from 'react-native';
+import { TouchableOpacity, StyleSheet, Text, View } from 'react-native';
 
 interface ButtonProps {
   title: string;
